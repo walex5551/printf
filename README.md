@@ -1,7 +1,7 @@
 # 0x10. C - printf
 
 ## Description
-This team project is part of the first year curriculum of Holberton School.
+This team project is part of the first year curriculum of ALX Software Engineering.
 _printf replicates the C standard library printf() function.
 
 What you should learn from this project:
@@ -18,14 +18,14 @@ What you should learn from this project:
 
 ## Usage
 * Prints a string to the standard output, according to a given format
-* All files were created and compiled on Ubuntu 14.04.4 LTS using GCC 4.8.4 with the command ```gcc -Wall -Werror -Wextra -pedantic *.c```
+* All files were created and compiled on Ubuntu 20.04 LTS using GCC 4.8.4 with the command ```gcc -Wall -Werror -Wextra -pedantic *.c```
 * Returns the number of characters in the output string on success, -1 otherwise
 * Call it this way: ```_printf("format string", arguments...)``` where ```format string``` can contain conversion specifiers and flags,
 along with regular characters
 
 ## Examples
 
-* ```_printf("Hello, Holberton\n")``` *prints "Hello, Holberton", followed by a new line*
+* ```_printf("Hello, ALX\n")``` *prints "Hello, ALX", followed by a new line*
 * ```_printf("%s", "Hello")``` *prints "Hello"*
 * ```_printf("This is a number: %d", 98)``` *prints "This is a number: 98"*
 
@@ -105,8 +105,3 @@ These are all the tasks of this project, the ones that are completed link to the
 ### [16. * ]
 * All the above options work well together.
 
----
-
-### Authors
-* **Tu Vo** - [tuvo1106@gmail.com](https://github.com/tuvo1106)
-* **Laura Roudge** - [laura.derohan@gmail.com](https://github.com/lroudge)
